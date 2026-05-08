@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pymupdf         
+langchain
+langchain-deepseek
+langchain-openai
+langchain-classic
