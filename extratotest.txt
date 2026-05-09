@@ -1,0 +1,9 @@
+Data        Histórico                        Valor
+01032026  SUPERMERCADO BOA COMPRA         -150.00
+05032026  PAGAMENTO SALÁRIO                3500.00
+07032026  NETFLIX.COM                      -39.90
+10032026  UBER TRIP                        -25.50
+15032026  RESTAURANTE SABOR CASEIRO        -89.90
+20032026  TRANSFERÊNCIA POUPANÇA          -500.00
+25032026  FARMÁCIA SAÚDE TOTAL             -67.80
+28032026  SPOTIFY                          -19.90
