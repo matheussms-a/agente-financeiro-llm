@@ -14,7 +14,7 @@ Este projeto é um agente de inteligência artificial capaz de analisar extratos
 **Processamento de PDF**: PyMuPDF (fitz)
 **Manipulação de Dados**: Pandas
 ## Exemplos Visuais
-![Demonstração do Dashboard](assets/cap.png)
+![Demonstração do Dashboard](assets/demogif.gif)
 ## Como Executar
 ### Pré-requisitos
 Python instalado
