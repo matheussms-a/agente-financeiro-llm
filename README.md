@@ -34,3 +34,17 @@ Chave de API
 Clone o repositório:
 ```bash
 git clone https://github.com/matheussms-a/agente-financeiro-llm.git
+```
+**Instale as dependências**:
+```bash
+pip install -r requirements1.txt
+```
+**Configure as variáveis de ambiente**:
+```bash
+DEEPSEEK_API_KEY=sua_chave_aqui
+```
+
+**Execução do Projeto**
+```bash
+streamlit run app_streamlit.py
+```
