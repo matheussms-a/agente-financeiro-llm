@@ -38,7 +38,7 @@ def analisar_gastos_com_agente(lista_transacoes_json):
         api_key=SecretStr(DEEPSEEK_API_KEY)  # type: ignore
     )
 
-    # Novo Prompt: Pedimos APENAS o mapeamento, sem reescrever o resto
+    # prompt
     prompt_analise = f"""
 Você é um assistente financeiro. Analise as transações abaixo.
 Para economizar espaço, NÃO reescreva as transações inteiras. 
