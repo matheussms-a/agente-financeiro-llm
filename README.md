@@ -4,9 +4,13 @@ Este projeto é um agente de inteligência artificial capaz de analisar extratos
 **Extração Inteligente**: Leitura de PDFs e extração de dados estruturados (data, descrição, valor).
 
 **Categorização Automática**: Classificação de gastos em categorias (Alimentação, Transporte, Lazer, etc.).
+
 **Dashboard Interativo**: Interface Streamlit para upload de arquivos e visualização de gráficos de gastos.
+
 **API REST**: Backend construído com FastAPI para integração com outros sistemas.
+
 **Otimização de Tokens**: Implementação de mapeamento por ID para processar grandes volumes de dados (ex: extratos de 90 dias) de forma eficiente.
+
 ## Tecnologias Utilizadas
 **Linguagem**: Python 3.10+
 **IA**: DeepSeek (via LangChain)
