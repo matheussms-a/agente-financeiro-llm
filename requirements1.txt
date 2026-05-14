@@ -7,3 +7,5 @@ langchain
 langchain-deepseek
 langchain-openai
 langchain-classic
+streamlit
+pandas
