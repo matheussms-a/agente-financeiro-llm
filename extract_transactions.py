@@ -1,5 +1,4 @@
 from langchain_openrouter import ChatOpenRouter
-from langchain_groq import ChatGroq
 from pydantic import SecretStr
 from typing import cast
 from langchain_classic.chains import LLMChain
