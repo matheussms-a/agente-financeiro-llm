@@ -2,6 +2,7 @@
 Este projeto é um agente de inteligência artificial capaz de analisar extratos bancários em formato PDF, categorizar transações automaticamente e gerar insights financeiros personalizados. O sistema utiliza o modelo **DeepSeek-V3** via LangChain para o processamento de linguagem natural e oferece tanto uma interface visual quanto uma API robusta.
 ## Funcionalidades
 **Extração Inteligente**: Leitura de PDFs e extração de dados estruturados (data, descrição, valor).
+
 **Categorização Automática**: Classificação de gastos em categorias (Alimentação, Transporte, Lazer, etc.).
 **Dashboard Interativo**: Interface Streamlit para upload de arquivos e visualização de gráficos de gastos.
 **API REST**: Backend construído com FastAPI para integração com outros sistemas.
