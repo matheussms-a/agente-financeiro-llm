@@ -13,11 +13,17 @@ Este projeto é um agente de inteligência artificial capaz de analisar extratos
 
 ## Tecnologias Utilizadas
 **Linguagem**: Python 3.10+
+
 **IA**: DeepSeek (via LangChain)
+
 **Interface**: Streamlit
+
 **Backend**: FastAPI
+
 **Processamento de PDF**: PyMuPDF (fitz)
+
 **Manipulação de Dados**: Pandas
+
 ## Exemplos Visuais
 ![Demonstração do Dashboard](assets/demogif.gif)
 ## Como Executar
