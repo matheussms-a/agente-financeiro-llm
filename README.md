@@ -33,4 +33,4 @@ Chave de API
 ### Configuração
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/agente-financeiro-llm.git
+git clone https://github.com/matheussms-a/agente-financeiro-llm.git
